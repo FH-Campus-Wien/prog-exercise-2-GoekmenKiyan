@@ -26,8 +26,8 @@ public class App {
             }
             count++;
         }
-        while (1 < max);
-        System.out.printf("The largest number is %.2f",max);
+        while (1 < number);
+        System.out.printf("The largest number is %.2f", max);
         System.out.println();
     }
 
